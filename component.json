@@ -1,0 +1,7 @@
+{
+  "name": "type",
+  "description": "Detect type of object with Object.prototype.toString",
+  "version": "1.0.0",
+  "keywords": ["type", "typeof"],
+  "scripts": ["index.js"]
+}
